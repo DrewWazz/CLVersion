@@ -1,0 +1,28 @@
+body{
+	background-image: url("images/backgroundTree.jpg");
+	background-size: cover;
+}
+.image{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.table{
+	text-align: center;
+}
+.tableHead{
+	text-align: center;
+	color: lightblue;
+	padding-top: 2%;
+}
+.oddColor{
+	background-color: lightgray;
+}
+.evenColor{
+	background-color: lightslategray;
+}
+.contribColor{
+	background-color:darkblue;
+	color:white;
+}
